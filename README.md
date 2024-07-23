@@ -1,6 +1,28 @@
-# NOTE:
+# SETUP INSTRUCTIONS
 
-### If there is any confusion regarding ` .env ` file, please contact me.
+### Tech Stack
+
+```bash
+ 1. Next.js 
+ Reason: Provides SSR and SSG for optimized performance and allows entire project to run on single domain.
+ 2. PostgreSQL
+ Reason:  Scalable and feature-rich database for complex data management.
+ 3. Tailwind css
+ Reason: Provides utilities for responsive design right out of the box.
+```
+
+
+#### Clone the project
+
+```bash
+https://github.com/factscub/entertainment-quiz-application.git
+```
+
+#### Go to the project directory
+
+```bash
+  cd entertainment-quiz-application
+```
 
 ## Quiz Application URL
 
@@ -51,3 +73,4 @@ $ npm run dev
 # production mode
 $ npm run start
 ```
+
