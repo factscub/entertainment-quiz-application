@@ -1,4 +1,5 @@
 # SETUP INSTRUCTIONS
+## NOTE: To speed things up, i used pre-built tailwind css compononents like checkbox, radiobutton, loader and so on.
 
 ### Tech Stack
 
